@@ -15,12 +15,13 @@ Persyaratan system yang diperlukan:
 - Laravel v 11.x.x
 
 ketika file sudah di ekstrak selanjutnya buka terminal masuk kedalam folder yang sudah di ekstrak jalankan perintah pada terminal:
+- Download nodejs dan composer bagi yang belum menginstall 2 package tersebut
 - npm install
 - ubah file .env.example menjadi .env
 - composer install
 - php artisan key:generate
 - php artisan migrate
-- jalankan perintah npm run dev di terminal lain
+- jalankan perintah npm run dev di terminal lain pastika pathnya berada di dalam folder project laravel
 - php artisan serve
 
 ## About Laravel
