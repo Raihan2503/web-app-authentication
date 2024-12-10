@@ -16,6 +16,11 @@ Persyaratan system yang diperlukan:
 
 ketika file sudah di ekstrak selanjutnya buka terminal masuk kedalam folder yang sudah di ekstrak jalankan perintah pada terminal:
 - npm install
+- ubah file .env.example menjadi .env
+- composer install
+- php artisan key:generate
+- php artisan migrate
+- jalankan perintah npm run dev di terminal lain
 - php artisan serve
 
 ## About Laravel
